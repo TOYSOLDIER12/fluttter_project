@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "612840455198",
+    "firebase_url": "https://flutterproject-f02e6-default-rtdb.firebaseio.com",
+    "project_id": "flutterproject-f02e6",
+    "storage_bucket": "flutterproject-f02e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612840455198:android:955d3b92ff0fead35a420f",
+        "android_client_info": {
+          "package_name": "com.none.multitask_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhDcMnsd-ou3M7vT8guHijgp8EwBGqdOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
